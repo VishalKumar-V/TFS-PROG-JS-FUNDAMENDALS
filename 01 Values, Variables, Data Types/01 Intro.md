@@ -8,11 +8,19 @@
 
 
 ## Video
-- [Video Reference](https://www.youtube.com/watch?v=aBA71If0ZkM&list=PLEMJd317BppmkqoTnA6sxusAOpJV6imyN) - basic Intoduction
+[Video Reference](https://www.youtube.com/watch?v=aBA71If0ZkM&list=PLEMJd317BppmkqoTnA6sxusAOpJV6imyN) - basic Intoduction
+[![Video Reference](https://seeklogo.com/images/Y/youtube-2017-icon-logo-D1FE045118-seeklogo.com.png =100x20)](https://www.youtube.com/watch?v=aBA71If0ZkM&list=PLEMJd317BppmkqoTnA6sxusAOpJV6imyN)
 
 
-## Content Breakdown
+### Content Breakdown
 
+| Content | Description |
+| ------ | ------ |
+| [Values](https://www.youtube.com/watch?v=aBA71If0ZkM&list=PLEMJd317BppmkqoTnA6sxusAOpJV6imyN)  |What are values and how it works |
+| [Variables](https://www.youtube.com/watch?v=aBA71If0ZkM&list=PLEMJd317BppmkqoTnA6sxusAOpJV6imyN)  |What are values and how it works |
+| [Memory Allocation](https://www.youtube.com/watch?v=aBA71If0ZkM&list=PLEMJd317BppmkqoTnA6sxusAOpJV6imyN)  |What are values and how it works |
+| [Datatypes](https://www.youtube.com/watch?v=aBA71If0ZkM&list=PLEMJd317BppmkqoTnA6sxusAOpJV6imyN)  |What are values and how it works |
+| [Values](https://www.youtube.com/watch?v=aBA71If0ZkM&list=PLEMJd317BppmkqoTnA6sxusAOpJV6imyN)  |What are values and how it works |
 
 
 > The overriding design goal for Markdown's
