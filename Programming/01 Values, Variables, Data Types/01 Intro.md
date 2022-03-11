@@ -8,7 +8,7 @@
 
 
 ## Video
-<a href="(https://www.youtube.com/watch?v=aBA71If0ZkM&list=PLEMJd317BppmkqoTnA6sxusAOpJV6imyN"><img src="../../asserts/logo_youtube.png" align="left" height="48"></a>
+<a href="https://www.youtube.com/watch?v=aBA71If0ZkM&list=PLEMJd317BppmkqoTnA6sxusAOpJV6imyN"><img src="../../asserts/logo_youtube.png" align="left" height="48"></a>
 <br>
 
 
