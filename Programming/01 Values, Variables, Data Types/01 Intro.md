@@ -9,6 +9,7 @@
 
 ## Video
 [Video Reference](https://www.youtube.com/watch?v=aBA71If0ZkM&list=PLEMJd317BppmkqoTnA6sxusAOpJV6imyN) - basic Intoduction
+![](../../asserts/logo_youtube.png)
 [![Video Reference](https://seeklogo.com/images/Y/youtube-2017-icon-logo-D1FE045118-seeklogo.com.png =100x20)](https://www.youtube.com/watch?v=aBA71If0ZkM&list=PLEMJd317BppmkqoTnA6sxusAOpJV6imyN)
 
 
