@@ -1,13 +1,18 @@
-Introduction
-
-Necessity for it & What it is 
-
-# Test
-
-## _The Last Markdown Editor, Ever_
+# Values, Variables and DataTypes
 
 
-- [Video Reference](https://www.youtube.com/watch?v=VSapCTmw31g&list=RDVSapCTmw31g&start_radio=1) - basic Intoduction
+## Overview
+1. Overview of Values, Variables and DataTypes 
+2. Deepdive and logical reasoning behind each subset of Values, Variables & DataTypes
+
+
+
+## Video
+- [Video Reference](https://www.youtube.com/watch?v=aBA71If0ZkM&list=PLEMJd317BppmkqoTnA6sxusAOpJV6imyN) - basic Intoduction
+
+
+## Content Breakdown
+
 
 
 > The overriding design goal for Markdown's
