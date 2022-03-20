@@ -1,0 +1,22 @@
+# Problem Statement
+
+By default initialize a variable as "age" with integer value
+The algorithn should print the suitable output for the give age
+
+
+## conditons
+If age is greater than 60 Print “Senior citizen”, else if age is between 30 to 60 print “Middle Aged Citizen” , else print “Young citizen”
+
+
+## Sample Input 1:
+age = 35
+
+### Output:
+“not a senior citizen”
+
+
+## Sample Input 2:
+age = 65
+
+### Output:
+“Senior citizen”
