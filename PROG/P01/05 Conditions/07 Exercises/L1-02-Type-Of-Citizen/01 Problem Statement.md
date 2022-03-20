@@ -8,6 +8,8 @@ The algorithn should print the suitable output for the give age
 If age is greater than 60 Print “Senior citizen”, else if age is between 30 to 60 print “Middle Aged Citizen” , else print “Young citizen”
 
 
+## Sample I/O
+
 > #### Sample Input 1:
 > age = 35
 >
