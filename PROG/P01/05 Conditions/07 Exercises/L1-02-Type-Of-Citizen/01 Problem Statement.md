@@ -12,7 +12,7 @@ If age is greater than 60 Print “Senior citizen”, else if age is between 30 
 age = 35
 
 ### Output:
-“not a senior citizen”
+“Middle Aged Citizen”
 
 
 ## Sample Input 2:
@@ -20,3 +20,9 @@ age = 65
 
 ### Output:
 “Senior citizen”
+
+## Sample Input 3:
+age = 12
+
+### Output:
+“Young citizen”
