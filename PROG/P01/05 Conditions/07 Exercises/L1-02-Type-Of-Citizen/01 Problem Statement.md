@@ -1,7 +1,7 @@
 # Problem Statement
 
-By default initialize a variable as "age" with integer value
-The algorithn should print the suitable output for the give age
+By default initialize a variable as "age" with integer value. 
+Write an algorithm to print the suitable output for the give age
 
 
 ## conditons
