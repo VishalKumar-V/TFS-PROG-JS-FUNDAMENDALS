@@ -6,33 +6,39 @@ For a give time find the status of the activity carried out in the college
 
 ## Rules
 
-| TIME      | Activity |
+| Time      | Activity |
 | :---        |    :----:   | 
 | 0.00 - 9.00  | College Closed       | 
-|  > 9.00 - 12.00   | Morning Classes     | 
-|  > 12.00 - 13.00   | Lunch Break    | 
-|  > 13.00 - 16.00   | Afternoon Classes  | 
-|  > 16.00 - 17.00   | Tea Break  | 
-|  > 17.00 - 19.00   | Evening Classes  | 
-|  > 19.00   | College Closed | 
+|   9.00 - < 12.00   | Morning Classes     | 
+|   12.00 - < 13.00   | Lunch Break    | 
+|   13.00 - < 16.00   | Afternoon Classes  | 
+|   16.00 -  < 17.00   | Tea Break  | 
+|   17.00 -  < 19.00   | Evening Classes  | 
+|    >= 19.00   | College Closed | 
 
 
 ## Sample I/O
 
 > #### Sample Input 1:
-> age = 35
+> time = 10
 >
 > ##### Output:
-> “Middle Aged Citizen”
+> “Morning Classes”
 
 > #### Sample Input 2:
-> age = 65
+> time = 13
 >
 > #### Output:
-> “Senior citizen”
+> “Afternoon Classes ”
 
 > #### Sample Input 3:
-> age = 12
+> time = 19
 >
 > #### Output:
-> “Young citizen”
+> “College Closed”
+
+> #### Sample Input 4:
+> time = 22
+>
+> #### Output:
+> “College Closed”
