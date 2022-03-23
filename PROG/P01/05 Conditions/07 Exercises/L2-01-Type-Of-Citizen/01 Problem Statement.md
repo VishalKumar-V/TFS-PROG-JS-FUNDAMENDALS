@@ -7,6 +7,11 @@ Write an algorithm to print the suitable output for the give age
 ## Rules
 If age is greater than 60 Print “Senior citizen”, else if age is between 30 to 60 print “Middle Aged Citizen” , else print “Young citizen”
 
+## Manditory Steps
+
+- [ ] Solution Proposal
+- [ ] Algorithm
+- [x] Solution
 
 ## Sample I/O
 

@@ -25,6 +25,12 @@ For a give time find the status of the college
 
 
 
+## Manditory Steps
+
+- [x] Solution Proposal
+- [x] Algorithm
+- [x] Solution
+- [x] Scratchpad
 
 
 ## Sample I/O

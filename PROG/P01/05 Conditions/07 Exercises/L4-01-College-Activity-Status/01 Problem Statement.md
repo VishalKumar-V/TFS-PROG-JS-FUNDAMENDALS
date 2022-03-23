@@ -17,6 +17,14 @@ For a give time find the activity carried out in the college
 |   >= 19.00   | College Closed | 
 
 
+## Manditory Steps
+
+- [ ] Solution Proposal
+- [ ] Algorithm
+- [x] Solution
+- [ ] Scratchpad
+
+
 ## Sample I/O
 
 > #### Sample Input 1:

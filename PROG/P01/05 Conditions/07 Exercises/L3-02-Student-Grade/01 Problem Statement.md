@@ -16,6 +16,13 @@ Write an algorithm to print the suitable grade for the give mark
     | 0 - 50 | F | 
     | > 100 | Invalid Mark | 
 
+## Manditory Steps
+
+- [x] Solution Proposal
+- [x] Algorithm
+- [x] Solution
+- [ ] Scratchpad
+
 ## Sample I/O
 
 > #### Sample Input 1:

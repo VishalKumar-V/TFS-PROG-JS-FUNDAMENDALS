@@ -12,6 +12,13 @@ For a give time find the status of the college
 |   9.00 - < 19.00   | College Open  | 
 |   >= 19.00   | College Closed | 
 
+
+## Manditory Steps
+
+- [ ] Solution Proposal
+- [x] Algorithm
+- [x] Solution
+
 ## Sample I/O
 
 > #### Sample Input 1:

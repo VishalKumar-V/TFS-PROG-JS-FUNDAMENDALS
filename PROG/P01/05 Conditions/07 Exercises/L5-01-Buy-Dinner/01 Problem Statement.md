@@ -20,6 +20,12 @@ For a give time find the status of the college
 * if the above criteria fails 
     returns without purchasing anything
 
+## Manditory Steps
+
+- [x] Solution Proposal
+- [x] Algorithm
+- [x] Solution
+- [x] Scratchpad
 
 
 ## Sample I/O
