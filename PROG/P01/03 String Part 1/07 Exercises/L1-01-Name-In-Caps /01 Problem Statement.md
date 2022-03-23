@@ -12,6 +12,7 @@ Write an algorithm to print the name in all caps
 - [ ] Solution Proposal
 - [ ] Algorithm
 - [x] Solution
+- [x] Scratchpad
 
 
 
