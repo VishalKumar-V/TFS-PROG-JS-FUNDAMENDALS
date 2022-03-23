@@ -1,6 +1,6 @@
 # Problem Statement   
 
-College A follows set of standard time table every day where the class starts by 9.00 ISTand the college closes by 19.00 till the next day of 9.00 
+College A follows set of standard time table every day where the class starts by 9.00 IST and the college closes by 19.00 till the next day of 9.00 
 
 For a give time find the status of the college 
 
