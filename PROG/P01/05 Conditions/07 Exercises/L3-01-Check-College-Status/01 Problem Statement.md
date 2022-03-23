@@ -7,7 +7,7 @@ For a give time find the activity carried out in the college
 ## Rules
 
 | Time      | Activity |
-| :---        |    ----:   | 
+| :---:        |    :----:   | 
 | 0.00 - <9.00  | College Closed       | 
 |   9.00 - < 12.00   | Morning Classes     | 
 |   12.00 - < 13.00   | Lunch Break    | 
