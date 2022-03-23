@@ -8,7 +8,7 @@ For a give time find the status of the activity carried out in the college
 
 | Time      | Activity |
 | :---        |    :----:   | 
-| 0.00 - 9.00  | College Closed       | 
+| 0.00 - <9.00  | College Closed       | 
 |   9.00 - < 12.00   | Morning Classes     | 
 |   12.00 - < 13.00   | Lunch Break    | 
 |   13.00 - < 16.00   | Afternoon Classes  | 
