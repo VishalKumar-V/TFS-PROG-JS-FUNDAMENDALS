@@ -8,33 +8,39 @@ For a give time find the status of the college
 
 
 
-| Idli   | Dosa | Sambar  | Chuttny | Purchased | 
+| Idli   | Sambar | Dosa | Chuttny | Purchased | 
 | :---:   |  :----:   |  :----:   |   :----:   |   :----:  | 
-| true | true | true | true | Purchased Idli and Dosa | 
+| true | true | true | true | Purchased Idli and Sambar | 
+| true | false | true | true | Purchased Dosa and Chuttny | 
+| false | true | true | true | Purchased Dosa and Chuttny | 
+| true | false | true | false | Didn't purchase Anything| 
 
 
 ## Sample I/O
 
 > #### Sample Input 1:
-> time = 10
+> idliAvailable= true, sambarAvailable=true, dosaAvailable=true, chuttnyAvailable = true 
 >
 > ##### Output:
-> “College Open”
+> “Purchased Idli and Sambar”
 
 > #### Sample Input 2:
-> time = 13
+> idliAvailable= false, sambarAvailable=true, dosaAvailable=true, chuttnyAvailable = true 
 >
-> #### Output:
-> “College Open”
+> ##### Output:
+> “Purchased Dosa and Chuttny”
+
 
 > #### Sample Input 3:
-> time = 7
+> #### Sample Input 2:
+> idliAvailable= false, sambarAvailable=false, dosaAvailable=true, chuttnyAvailable = true 
 >
-> #### Output:
-> “College Closed”
+> ##### Output:
+> “Purchased Dosa and Chuttny”
 
 > #### Sample Input 4:
-> time = 22
+> #### Sample Input 2:
+> idliAvailable= false, sambarAvailable=true, dosaAvailable=true, chuttnyAvailable = false 
 >
-> #### Output:
-> “College Closed”
+> ##### Output:
+> “Didn't purchase Anything”
