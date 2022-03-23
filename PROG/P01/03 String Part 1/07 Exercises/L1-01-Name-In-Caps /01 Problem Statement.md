@@ -1,6 +1,6 @@
 # Problem Statement
 
-By default initialize a variable as "myName" with string value
+By default initialize a variable as "myName" with string value     
 Write an algorithm to print the name in all caps
 
 ## Rules
