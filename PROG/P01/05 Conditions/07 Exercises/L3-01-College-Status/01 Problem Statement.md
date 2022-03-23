@@ -1,17 +1,16 @@
 # Problem Statement   
 
-Aravind goes to nearby hotel got buy breakfast for him, where first he checks whether the hotel have both idli and sambar then buys idli and samber for him if both are available . if either idli or sambar is not available, then he checks if dosa and chuttny is available, if chuttny or dosa is not available then he gets back without purchasing anything
+College A follows set of standard time table every day where the class starts by 9.00 ISTand the college closes by 19.00 till the next day of 9.00 
 
 For a give time find the status of the college 
 
 ## Rules
 
-
-
-| Idli   | Dosa | Sambar  | Chuttny | Purchased | 
-| :---:   |  :----:   |  :----:   |   :----:   |   :----:  | 
-| true | true | true | true | Purchased Idli and Dosa | 
-
+| Time      | Activity |
+| :---:        |    :----:   | 
+| 0.00 - < 9.00  | College Closed   | 
+|   9.00 - < 19.00   | College Open  | 
+|   >= 19.00   | College Closed | 
 
 ## Sample I/O
 
