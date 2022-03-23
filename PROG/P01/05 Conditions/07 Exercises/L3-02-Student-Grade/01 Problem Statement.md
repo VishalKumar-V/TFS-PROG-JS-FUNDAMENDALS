@@ -1,6 +1,6 @@
 # Problem Statement   
 
-By default initialize a variable as "myMark" with integer value.            
+By default declare a variable as "myMark" with integer value.            
 Write an algorithm to print the suitable grade for the give mark
 
 
