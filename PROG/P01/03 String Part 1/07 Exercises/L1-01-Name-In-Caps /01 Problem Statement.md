@@ -3,11 +3,11 @@
 By default initialize a variable as "myName" with string value
 Write an algorithm to print the name in all caps
 
-## conditons
+## Rules
 
 -
 
-## MANDITORY STEPS
+## Manditory Steps
 
 - [ ] Solution Proposal
 - [ ] Algorithm
@@ -15,20 +15,23 @@ Write an algorithm to print the name in all caps
 
 
 
-## Sample Input 1:
-name = Sanga Tamilan
+## Sample I/O
 
-### Output:
-“SANGA TAMILAN”
+> #### Sample Input 1:
+> myName = 'Sanga Tamilan'
+>
+> ##### Output:
+> “SANGA TAMILAN”
 
-## Sample Input 2:
-name = sanga tamilan
+> #### Sample Input 2:
+> myName = 'sanga tamilan'
+>
+> ##### Output:
+> “SANGA TAMILAN”
 
-### Output:
-“SANGA TAMILAN”
 
-## Sample Input 3:
-name = SANGA TAMILAN
-
-### Output:
-“SANGA TAMILAN”
+> #### Sample Input 3:
+> myName = 'SANGA TAMILAN'
+>
+> ##### Output:
+> “SANGA TAMILAN”
