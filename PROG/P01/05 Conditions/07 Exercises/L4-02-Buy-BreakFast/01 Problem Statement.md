@@ -10,14 +10,14 @@ For a give time find the status of the college
 * First checks if idli and sambar is available and idlys qty is atleast 5
 
     | Idli | Sambar |  Purchased | 
-    | :---:   |  :----:   |  :----:   |   :----:   |   :----:  | 
+    | :---:   |  :----:   |  :----:   |   :----:   |  
     | true | true | Purchased Idli and Sambar | 
 
 
 * if any of the above criteria fails then checks if dosa and chuttny is available and dosa quantity is atlease 2
 
     | Dosa | Chuttny |  Purchased | 
-    | :---:   |  :----:   |  :----:   |   :----:   |   :----:  | 
+    | :---:   |  :----:   |  :----:   |   :----:   |  
     | true |  true | Purchased Dosa and Chuttny | 
 
 * if the above criteria fails
