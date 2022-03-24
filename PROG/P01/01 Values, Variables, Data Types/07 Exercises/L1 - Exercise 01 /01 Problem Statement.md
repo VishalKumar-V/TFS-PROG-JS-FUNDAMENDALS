@@ -33,7 +33,7 @@ Create the variables from the items that is in your life style (Refer Sample I/O
 ## Sample I/O
 
 | Variable | Value |  Datatype |
-| :---:   |  :----:   | :----:   | 
+| :---   |  :----:   | :----:   | 
 | myName | "Tamil" | String |
 | myAge | 25 | number |
 | myArea | "Chennai" | String |
