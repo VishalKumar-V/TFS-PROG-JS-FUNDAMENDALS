@@ -13,7 +13,7 @@ Create the variables from the items that is in your life style (Refer Sample Sec
         * 2 : gstPercent = 20
         * In the above both defines the gst percent but the 2nd is more clear in a way that it wont require any further clarificaation or introduce any confusion in long run
         * The easiest way to find is hide the right part of the reclaration and see the name alone it should be self explanatory with out the reference of value
-* Variable name should noe contain any spaces
+* Variable name should not contain any spaces
 * Variable name should not start with numbers
 * variable name with more than one word should use camal notation -> after first word all the following word's  first letter will be of capital
     * Example:
