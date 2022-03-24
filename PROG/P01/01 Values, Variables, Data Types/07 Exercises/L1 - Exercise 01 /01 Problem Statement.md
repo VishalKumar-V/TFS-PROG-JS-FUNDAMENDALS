@@ -1,7 +1,7 @@
 # Problem Statement
 
 Create list of 40 variables with values and its datatype    
-Create the variables from the items that is in your life style (Refer Sample Section)    
+Create the variables from the items that is in your life style (Refer Sample I/O Section)    
 
 ## Rules
 
@@ -22,16 +22,6 @@ Create the variables from the items that is in your life style (Refer Sample Sec
         * productPrice
         * myLaptopBrand
 
-## Sample
-
-| Variable | Value |  Datatype |
-| :---:   |  :----:   | :----:   | 
-| myName | "Tamil" | String |
-| myAge | 25 | number |
-| myArea | "Chennai" | String |
-| hadBreakfast | false | Boolean |
-| teaPrice | 10 | number |
-
 ## Manditory Steps
 
 - [ ] Solution Proposal
@@ -42,14 +32,10 @@ Create the variables from the items that is in your life style (Refer Sample Sec
 
 ## Sample I/O
 
-> #### Sample Input 1:
->age = 35
-
-> ##### Output:
-> “not a senior citizen”
-
-> #### Sample Input 1:
-> age = 65
-
-> ##### Output:
-> “Senior citizen”
+| Variable | Value |  Datatype |
+| :---:   |  :----:   | :----:   | 
+| myName | "Tamil" | String |
+| myAge | 25 | number |
+| myArea | "Chennai" | String |
+| hadBreakfast | false | Boolean |
+| teaPrice | 10 | number |
