@@ -1,18 +1,18 @@
 # Problem Statement
 
-Create the variable defining the status of Arul of his material status, age, Working Company  
-Print the status and verify the values are correct    
-Update the status of Arul and Print again   
+By default declare a variable as "isMarried" with boolean value
+Print the value of "isMarried"
 
 ## Rules
 
+-
 
 ## Manditory Steps
 
 - [ ] Solution Proposal
 - [ ] Algorithm
 - [x] Solution
-- [x] Scratchpad
+- [ ] Scratchpad
 
 
 ## Sample I/O
