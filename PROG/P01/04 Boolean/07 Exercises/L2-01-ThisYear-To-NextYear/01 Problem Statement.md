@@ -18,7 +18,7 @@ print the values again
 ## Sample I/O
 
 > #### Sample Input 1:
-> isMarried = false
+> isMarried = false          
 > ....          
 > ....        
 > isMarried = true
