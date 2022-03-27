@@ -14,6 +14,8 @@ Print the final product price in console
 
 * Get the finalPriceFor10Products 
     * (finalPrice * 10) - 2
+    * or
+    * finalPrice * 10 - 2
 * Get the finalPriceForOneAfterAdjustingDiscount
     * finalPrice * (10 - 2)
 
