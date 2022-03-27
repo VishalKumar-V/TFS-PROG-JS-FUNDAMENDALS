@@ -33,10 +33,10 @@ In the above to expressions please note how sequence of execution happens based 
 ## Sample I/O
 
 > #### Sample Input 1:
-> productPrice = 200
-> productDiscount = 2
+> productPrice = 200       
+> productDiscount = 2      
 >
 > ##### Output:
-> finalPriceFor10Products = 1998
-> finalPriceAfterAdjustingDiscount = 1600
+> finalPriceFor10Products = 1998      
+> finalPriceAfterAdjustingDiscount = 1600      
 
