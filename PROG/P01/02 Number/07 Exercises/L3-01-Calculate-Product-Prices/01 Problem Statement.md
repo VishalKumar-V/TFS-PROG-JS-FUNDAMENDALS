@@ -14,7 +14,7 @@ Print the final product price in console
 
 * Get the finalPriceFor10Products 
     * (finalPrice * 10) - 2
-* Get the finalPriceAfterAdjustingDiscount
+* Get the finalPriceForOneAfterAdjustingDiscount
     * finalPrice * (10 - 2)
 
 ## Notes
@@ -38,5 +38,5 @@ In the above to expressions please note how sequence of execution happens based 
 >
 > ##### Output:
 > finalPriceFor10Products = 1998      
-> finalPriceAfterAdjustingDiscount = 1600      
+> finalPriceForOneAfterAdjustingDiscount = 1600      
 
