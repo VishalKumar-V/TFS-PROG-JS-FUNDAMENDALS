@@ -10,7 +10,7 @@ Print the value of "isValidUser"
 
 ## Rules
 
-* Use only terinary to provide value to isValidUser
+* Use only ternary operator to provide value to isValidUser
 * myName = "Arul"
     * isValidUser = true 
 * if myName is not equal to "Arul"
