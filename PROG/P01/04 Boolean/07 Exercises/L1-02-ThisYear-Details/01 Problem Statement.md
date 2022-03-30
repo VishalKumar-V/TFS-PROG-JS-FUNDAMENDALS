@@ -4,7 +4,7 @@ Create the variable defining the status of Arul of his material status, age, Wor
 Print the status and verify the values are correct    
 
 ## Rules
-
+-
 
 ## Manditory Steps
 
