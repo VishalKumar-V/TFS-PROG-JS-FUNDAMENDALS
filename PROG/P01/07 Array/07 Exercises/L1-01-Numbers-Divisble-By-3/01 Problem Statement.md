@@ -20,13 +20,13 @@ Print the myResult array
 ## Sample I/O
 
 > #### Sample Input 1:
-> myRandomNumbers =[3,6,34,76,5,66,34,86,77,02]
+> myRandomNumbers =[3,34,76,5,66,34,86,77,02]
 >
 > ##### Output:
 > [3,66]
 
 > #### Sample Input 2:
-> myRandomNumbers = [3,6,34,76,5,67,33,86,77,02]
+> myRandomNumbers = [34,76,5,67,33,86,77,02]
 >
 > ##### Output:
 > [33]
