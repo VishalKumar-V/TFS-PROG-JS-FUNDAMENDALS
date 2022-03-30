@@ -2,7 +2,7 @@
 
 By default declare a variable as "myRandomNumbers" with integer array value           
 
-In the list of given numbers get all that when divided by 3 returns 0 (multiples of 3) and save it in a new array "myResult"           
+In the list of given numbers get all that when divided by 3 returns 0 as remiander (numbers that are multiples of 3) and save it in a new array "myResult"           
 
 Print the myResult array           
 
