@@ -25,6 +25,6 @@ Print the total number of names in studentNames
 > studentNames = ["Arul", "Ashok", "Arivu"]
 >
 > ##### Output:
-> ["Arul", "Ashok", "Arivu"]
+> 3
 > 
-> ["Arul", "Ashok", "Arivu", "Alex"]
+> 4
