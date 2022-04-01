@@ -2,11 +2,11 @@
 
 By default declare a variable as "studentNames" with string array value with total of 3 names Arul, Ashok, Arivu         
 
-Print the total number of names in studentNames     
+Print the names and total count of names from studentNames     
 
 Add new user "Alex" to "studentNames" data     
 
-Print the total number of names in studentNames        
+Print the names and total count of names from studentNames     
 
 
 ## Rules
@@ -14,7 +14,7 @@ Print the total number of names in studentNames
 
 ## Manditory Steps
 
-- [x] Solution Proposal
+- [ ] Solution Proposal
 - [ ] Algorithm
 - [x] Solution
 - [x] Scratchpad
@@ -25,6 +25,8 @@ Print the total number of names in studentNames
 > studentNames = ["Arul", "Ashok", "Arivu"]
 >
 > ##### Output:
+> ["Arul", "Ashok", "Arivu"]
 > 3
-> 
+>
+> ["Arul", "Ashok", "Arivu", "Alex"]
 > 4

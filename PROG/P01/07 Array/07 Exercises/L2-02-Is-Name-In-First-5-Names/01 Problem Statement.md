@@ -1,33 +1,47 @@
 # Problem Statement   
 
-By default declare a variable as "myRandomNumbers" with integer array value           
+By default declare a variable as "studentNames" with string array value with total of 8 names Arul, Ashok, Arivu, Bala, Basha, Charlie, David, DuraiRaj         
 
-In the list of given numbers get all that when divided by 3 returns 0 as remiander (numbers that are multiples of 3) and save it in a new array "myResult"           
+Create a variable with checkName      
 
-Print the myResult array           
+Check if the given name is present in the first 5 names      
+
+Print the names and total count of names from studentNames     
 
 
 ## Rules
-* Get all the numbers in the array that are multiples of 3. eg : 3, 6, 9,..,
+* If name not exist in list
+    * Print "Name exist"
+* If name exist in list
+    * Print "Name not exist"
+
 
 ## Manditory Steps
 
-- [x] Solution Proposal
-- [x] Algorithm
+- [ ] Solution Proposal
+- [ ] Algorithm
 - [x] Solution
 - [x] Scratchpad
 
 ## Sample I/O
 
 > #### Sample Input 1:
-> myRandomNumbers =[3,34,76,5,66,34,86,77,02]
+> studentNames = ["Arul", "Ashok", "Arivu", "Bala", "Basha", "Charlie", "David", "DuraiRaj"]
+> checkName = "David" 
 >
 > ##### Output:
-> [3,66]
+> "Name not exist"
 
 > #### Sample Input 2:
-> myRandomNumbers = [34,76,5,67,33,86,77,02]
+> studentNames = ["Arul", "Ashok", "Arivu", "Bala", "Basha", "Charlie", "David", "DuraiRaj"]
+> checkName = "Bala" 
 >
 > ##### Output:
-> [33]
+> "Name exist"
 
+> #### Sample Input 3:
+> studentNames = ["Arul", "Ashok", "Arivu", "Bala", "Basha", "Charlie", "David", "DuraiRaj"]
+> checkName = "Alex" 
+>
+> ##### Output:
+> "Name not exist"
