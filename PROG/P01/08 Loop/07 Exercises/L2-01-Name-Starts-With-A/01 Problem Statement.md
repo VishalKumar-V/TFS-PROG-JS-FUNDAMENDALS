@@ -1,18 +1,18 @@
 # Problem Statement   
 
-By default declare a variable as "myRandomNumbers" with integer array value           
+By default declare a variable as "studentNames" with string array value with total of 8 names Arul, Ashok, Arivu, Bala, Basha, Charlie, David, DuraiRaj         
 
-In the list of given numbers get all that when divided by 3 returns 0 as remiander (numbers that are multiples of 3) and save it in a new array "myResult"           
+Create a new list namesWithA with the names that starts with A from studentNames list         
 
-Print the myResult array           
-
+Print the studentNames and namesWithA         
 
 ## Rules
-* Get all the numbers in the array that are multiples of 3. eg : 3, 6, 9,..,
+-
+
 
 ## Manditory Steps
 
-- [x] Solution Proposal
+- [ ] Solution Proposal
 - [x] Algorithm
 - [x] Solution
 - [x] Scratchpad
@@ -20,14 +20,20 @@ Print the myResult array
 ## Sample I/O
 
 > #### Sample Input 1:
-> myRandomNumbers =[3,34,76,5,66,34,86,77,02]
+> studentNames = ["Arul", "Ashok", "Bala", "Basha","Charlie", "David", "DuraiRaj", "Arivu"]
 >
 > ##### Output:
-> [3,66]
+> ["Arul", "Ashok", "Arivu"]
 
 > #### Sample Input 2:
-> myRandomNumbers = [34,76,5,67,33,86,77,02]
+> studentNames = ["Arul", "Ashok", "Bala", "Basha","Charlie", "David", "DuraiRaj"]
 >
 > ##### Output:
-> [33]
+> ["Arul", "Ashok"]
+
+> #### Sample Input 3:
+> studentNames = ["Bala", "Basha","Charlie", "David", "DuraiRaj"]
+>
+> ##### Output:
+> []
 
