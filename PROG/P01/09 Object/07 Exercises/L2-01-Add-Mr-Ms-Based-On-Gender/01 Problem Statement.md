@@ -1,33 +1,38 @@
 # Problem Statement   
 
-By default declare a variable as "myRandomNumbers" with integer array value           
-
-In the list of given numbers get all that when divided by 3 returns 0 as remiander (numbers that are multiples of 3) and save it in a new array "myResult"           
-
-Print the myResult array           
-
+By default declare a variable as "studentDetails" with a value of student details            
+studentDetails value should contain name, age, gender, course, state, district, pincode            
+Print the studentDetails object            
+Add Mr as prefix to name if student gender is male           
+Add Mrs as prefix to name if student gender is female           
+Print the studentDetails object            
 
 ## Rules
-* Get all the numbers in the array that are multiples of 3. eg : 3, 6, 9,..,
+* Check the gender of student 
+* If gender equal to "male" 
+    * Add Prefix "Mr. "
+* If gender equal to "female" 
+    * Add Prefix "Mrs. "
 
 ## Manditory Steps
 
-- [x] Solution Proposal
-- [x] Algorithm
+- [ ] Solution Proposal
+- [ ] Algorithm
 - [x] Solution
-- [x] Scratchpad
+- [ ] Scratchpad
 
 ## Sample I/O
 
 > #### Sample Input 1:
-> myRandomNumbers =[3,34,76,5,66,34,86,77,02]
->
+> studentDetails = {name: "Arul", age:21, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028}
+> 
 > ##### Output:
-> [3,66]
+> {name: "Mr. Arul", age:21, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028}
+> 
 
-> #### Sample Input 2:
-> myRandomNumbers = [34,76,5,67,33,86,77,02]
->
+> #### Sample Input 1:
+> studentDetails = {name: "Anjali", age:21, gender:"female", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028}
+> 
 > ##### Output:
-> [33]
-
+> {name: "Mrs. Anjali", age:21, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028}
+> 

@@ -1,14 +1,17 @@
 # Problem Statement   
 
-By default declare a variable as "myRandomNumbers" with integer array value           
-
-In the list of given numbers get all that when divided by 3 returns 0 as remiander (numbers that are multiples of 3) and save it in a new array "myResult"           
-
-Print the myResult array           
-
+By default declare a variable as "studentDetails" with a value of student details            
+studentDetails value should contain name, age, gender, course, state, district, pincode            
+Print the studentDetails object            
+Add liscenceNo to studentDetails if student age is greater or equal than 18           
+Print the studentDetails object            
 
 ## Rules
-* Get all the numbers in the array that are multiples of 3. eg : 3, 6, 9,..,
+* Check the age of student 
+* If age greater than or equal to 18
+    * Add liscenceNo to studentDetails
+* If age less than than 18
+    * Skip adding
 
 ## Manditory Steps
 
@@ -20,14 +23,24 @@ Print the myResult array
 ## Sample I/O
 
 > #### Sample Input 1:
-> myRandomNumbers =[3,34,76,5,66,34,86,77,02]
->
+> studentDetails = {name: "Arul", age:21, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028}
+> 
 > ##### Output:
-> [3,66]
+> {name: "Arul", age:21, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028, liscenceNo: "TJNS9790DK"}
+> 
 
 > #### Sample Input 2:
-> myRandomNumbers = [34,76,5,67,33,86,77,02]
->
+> studentDetails = {name: "Ashok", age:17, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028}
+> 
 > ##### Output:
-> [33]
+> {name: "Ashok", age:21, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028}
+> 
+
+> #### Sample Input 3:
+> studentDetails = {name: "Anand", age:18, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028}
+> 
+> ##### Output:
+> {name: "Anand", age:18, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028, liscenceNo: "TJNS9790DK"}
+> 
+
 
