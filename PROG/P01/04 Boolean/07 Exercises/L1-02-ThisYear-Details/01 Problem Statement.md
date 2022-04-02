@@ -1,6 +1,6 @@
 # Problem Statement
 
-Create the variable defining the status of Arul of his material status, age, Working Company  
+Create the variable defining the status of Arul of his marital status, age, Working Company  
 Print the status and verify the values are correct    
 
 ## Rules
