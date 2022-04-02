@@ -3,8 +3,8 @@
 Declare a variable as "productPrice" with number value as 200
 Declare a variable as "productDiscount" with number value as 2
 
-1. Get the final price considering buying 10 products and applying discount to the total
-2. Get the final price considering buying 1 product and applying reducing 10 from discount amount and adding the remaining to the total
+1. Get the final price by sutracting discount amount from the total price for 10 products
+2. Get the final price for buying 8 products (note: manipulate the 8 products as 10-2 products), without subtracting the discount value. 
 <!-- finalPriceFor10 -->
 
 
