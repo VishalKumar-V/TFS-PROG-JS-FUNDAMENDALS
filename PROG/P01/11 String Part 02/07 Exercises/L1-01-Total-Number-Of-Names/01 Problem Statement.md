@@ -1,6 +1,6 @@
 # Problem Statement   
 
-By default declare a variable as "studentNames" with string value as comma seperated names     
+By default declare a variable as "studentNames" with string value as comma seperated names as "Arul,Ashok,Arivu"         
 
 Print the names and total count of names from studentNames     
 
