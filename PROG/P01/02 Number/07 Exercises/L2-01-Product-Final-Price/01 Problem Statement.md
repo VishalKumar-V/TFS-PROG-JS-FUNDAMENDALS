@@ -9,7 +9,7 @@ Print the final product price in console
 
 ## Rules
 
-* Get the value of productGstAmount from productGstPercent by comparing the productGstPercent with "productPrice"
+* Get the processed value of productGstAmount for the given productPrice using the productGstPercent.
 * Create productPriceWithGst by adding the productGstAmount and productPrice
 * Get the finalProductPrice by subracting productDiscount from productPriceWithGst
 * Print the finalProductPrice
