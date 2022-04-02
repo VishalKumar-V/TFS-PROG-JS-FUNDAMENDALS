@@ -6,11 +6,11 @@ Create a variable with checkName
 
 Check if the given name is present in the first 5 names      
 
-Print the names and total count of names from studentNames     
+Print "Name exist" if exist and  Print "Name not exist" if name not in studentNames     
 
 
 ## Rules
-* If name not exist in list
+* If name exist in first 5 items of list
     * Print "Name exist"
 * If name exist in list
     * Print "Name not exist"

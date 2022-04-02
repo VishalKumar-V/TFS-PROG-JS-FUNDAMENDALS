@@ -1,33 +1,48 @@
 # Problem Statement   
 
-By default declare a variable as "myRandomNumbers" with integer array value           
+By default declare a variable as "studentNames" with string value as comma seperated names     
 
-In the list of given numbers get all that when divided by 3 returns 0 as remiander (numbers that are multiples of 3) and save it in a new array "myResult"           
+Print the names and total count of names from studentNames     
 
-Print the myResult array           
+Add new name to "studentNames" data if only the give name is not present in the list if the name already exist skip adding the name       
+
+Print the names and total count of names from studentNames     
 
 
 ## Rules
-* Get all the numbers in the array that are multiples of 3. eg : 3, 6, 9,..,
+* If name not exist in list
+    * Add name to list
+* If name exist in list
+    * Skip adding to list
+
 
 ## Manditory Steps
 
-- [x] Solution Proposal
-- [x] Algorithm
+- [ ] Solution Proposal
+- [ ] Algorithm
 - [x] Solution
 - [x] Scratchpad
 
 ## Sample I/O
 
 > #### Sample Input 1:
-> myRandomNumbers =[3,34,76,5,66,34,86,77,02]
+> studentNames = "Arul,Ashok,Arivu"
+> newName = "Alex" 
 >
 > ##### Output:
-> [3,66]
+> "Arul,Ashok,Arivu"
+> 3
+>
+> "Arul,Ashok,Arivu,Alex"
+> 4
 
 > #### Sample Input 2:
-> myRandomNumbers = [34,76,5,67,33,86,77,02]
+> studentNames = "Arul,Ashok,Arivu"
+> newName = "Ashok" 
 >
 > ##### Output:
-> [33]
-
+> "Arul,Ashok,Arivu"
+> 3
+>
+> "Arul,Ashok,Arivu"
+> 3
