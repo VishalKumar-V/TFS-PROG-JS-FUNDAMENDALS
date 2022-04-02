@@ -1,14 +1,19 @@
 # Problem Statement   
 
-By default declare a variable as "myRandomNumbers" with integer array value           
+By default declare a variable as "courseDescription" with String value           
 
-In the list of given numbers get all that when divided by 3 returns 0 as remiander (numbers that are multiples of 3) and save it in a new array "myResult"           
+Check wether the total character count of courseDescription is less than 65           
 
-Print the myResult array           
+Print the "Less than 65" if courseDescription count is less tha 65 else print "Not less than 65"             
 
 
 ## Rules
-* Get all the numbers in the array that are multiples of 3. eg : 3, 6, 9,..,
+* Get the count of courseDescription
+* If less than 65
+    * Print "Less than 65"
+* If greater than or equal to 65
+    * Print "Not less than 65"
+
 
 ## Manditory Steps
 
@@ -20,14 +25,13 @@ Print the myResult array
 ## Sample I/O
 
 > #### Sample Input 1:
-> myRandomNumbers =[3,34,76,5,66,34,86,77,02]
+> productDescription = "JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. Over 97% of websites use JavaScript on the client side for web page behavior, often incorporating third-party libraries"
 >
 > ##### Output:
-> [3,66]
+> "Not less than 65"
 
 > #### Sample Input 2:
-> myRandomNumbers = [34,76,5,67,33,86,77,02]
+> productDescription = "JavaScript, often abbreviated JS"
 >
 > ##### Output:
-> [33]
-
+> "Less than 65"

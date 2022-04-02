@@ -1,14 +1,20 @@
 # Problem Statement   
 
-By default declare a variable as "myRandomNumbers" with integer array value           
-
-In the list of given numbers get all that when divided by 3 returns 0 as remiander (numbers that are multiples of 3) and save it in a new array "myResult"           
-
-Print the myResult array           
-
+By default declare a variable as "studentDetails" with a value of student details            
+studentDetails value should contain name, age, gender, course, state, district, pincode, collegeFee            
+Print the studentDetails object            
+Deeclare a new variable as "scholorshipAmount" with integer value
+Adjust collegeFee from studentDetails based on the  scholorshipAmount           
+Print the studentDetails object            
 
 ## Rules
-* Get all the numbers in the array that are multiples of 3. eg : 3, 6, 9,..,
+* Check the scholorshipAmount
+* If scholorshipAmount greater than 0
+    * Subtract scholorshipAmount in collegeFee property of studentDetails
+* If scholorshipAmount equal to 0
+    * Skip processing
+* If scholorshipAmount less than 0
+    * Print "Invalid Scholorship Amount"
 
 ## Manditory Steps
 
@@ -20,14 +26,36 @@ Print the myResult array
 ## Sample I/O
 
 > #### Sample Input 1:
-> myRandomNumbers =[3,34,76,5,66,34,86,77,02]
->
+> studentDetails = {name: "Arul", age:21, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028, collegeFee:30000}
+> scholorshipAmount = 2000
+> 
 > ##### Output:
-> [3,66]
+> {name: "Arul", age:21, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028, collegeFee:28000}
+> 
 
 > #### Sample Input 2:
-> myRandomNumbers = [34,76,5,67,33,86,77,02]
->
+> studentDetails = {name: "Arul", age:21, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028, collegeFee:30000}
+> scholorshipAmount = 100
+> 
 > ##### Output:
-> [33]
+> {name: "Arul", age:21, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028, collegeFee:29900}
+> 
+
+> #### Sample Input 3:
+> studentDetails = {name: "Arul", age:21, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028, collegeFee:30000}
+> scholorshipAmount = 0
+> 
+> ##### Output:
+> {name: "Arul", age:21, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028, collegeFee:30000}
+> 
+
+> #### Sample Input 4:
+> studentDetails = {name: "Arul", age:21, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028, collegeFee:30000}
+> scholorshipAmount = -2000
+> 
+> ##### Output:
+> {name: "Arul", age:21, gender:"male", course:"CSE", state: "TamilNadu", district: "Chennai", pincode:6000028, collegeFee:30000}
+> "Invalid Scholorship Amount"
+> 
+
 
