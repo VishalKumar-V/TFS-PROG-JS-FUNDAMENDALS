@@ -1,16 +1,25 @@
 # Problem Statement
 
-By default initialize a variable as "myName" with string value     
-Write an algorithm to print the name in all caps
+create billingDetails referring to the one created in P02-02-L1-02
+
+create new variable pancard  and provide value from billingDetails.pancard object 
+
+Write an method to validate wether the pancard details entered is correct
 
 ## Rules
 
--
+* Pancard Rules :
+    * Should be equal to 10 characters
+    * Should contain both alphabet and numbers
+* Pancard Valid
+    * Print "Pancard is valid"   
+* Pancard Not Valid
+    * Print "Pancard is not valid"   
 
 ## Manditory Steps
 
-- [ ] Solution Proposal
-- [ ] Algorithm
+- [x] Solution Proposal
+- [x] Algorithm
 - [x] Solution
 - [x] Scratchpad
 
@@ -19,20 +28,15 @@ Write an algorithm to print the name in all caps
 ## Sample I/O
 
 > #### Sample Input 1:
-> myName = 'Sanga Tamilan'
+> pancard = 'OPSAAD123O' //taken from billingDetailsobject
 >
 > ##### Output:
-> “SANGA TAMILAN”
+> "Pancard is valid"
 
 > #### Sample Input 2:
-> myName = 'sanga tamilan'
+> pancard = 'REA2123O'   //taken from billingDetailsobject
 >
 > ##### Output:
-> “SANGA TAMILAN”
+> "Pancard is not valid"
 
 
-> #### Sample Input 3:
-> myName = 'SANGA TAMILAN'
->
-> ##### Output:
-> “SANGA TAMILAN”
