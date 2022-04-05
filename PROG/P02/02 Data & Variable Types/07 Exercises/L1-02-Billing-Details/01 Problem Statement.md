@@ -32,6 +32,7 @@ Print pancard from billingDetails
 > }
 >
 > ##### Output:
-> { name:"Arul", address:"2nd Main Anna Nagar, Chennai", pincode:600018, phoneno:'9080808080', state:"TamilNadu", country:"India", pancard:"BGKSO150G" }      
-> 600018\\
+> { name:"Arul", address:"2nd Main Anna Nagar, Chennai", pincode:600018, phoneno:'9080808080', state:"TamilNadu", country:"India", pancard:"BGKSO150G" }   > \
+>  \  
+> 600018
 > BGKSO150G      
