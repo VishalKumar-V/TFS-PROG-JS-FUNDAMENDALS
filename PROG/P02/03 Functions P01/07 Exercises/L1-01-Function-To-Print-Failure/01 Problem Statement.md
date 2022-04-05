@@ -1,6 +1,7 @@
 # Problem Statement
 
-By default initialize a variable as "allProducts" with array af products
+By default initialize a variable as "allProducts" with value as array of products
+\
 \
 Each product has properties that of [product](https://github.com/AzrMohammed/TFS_PROG_L01/blob/abb463c7bf6a1c7c68f1c3cd63c31088ea7a2b18/PROG/P02/02%20Data%20&%20Variable%20Types/07%20Exercises/L1-01-Product-Specification/01%20Problem%20Statement.md)
 \
