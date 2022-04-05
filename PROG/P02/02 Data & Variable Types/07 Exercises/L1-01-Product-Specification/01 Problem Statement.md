@@ -27,7 +27,13 @@ Print and check the typeof category, price, name, isfood of first product in the
 >
 > ##### Output:
 > 'string' // typeof category
+> \
+> \
 > 'number' // typeof price
+> \
+> \
 > 'string' // typeof name
+> \
+> \
 > 'boolean' // typeof isfood
 
