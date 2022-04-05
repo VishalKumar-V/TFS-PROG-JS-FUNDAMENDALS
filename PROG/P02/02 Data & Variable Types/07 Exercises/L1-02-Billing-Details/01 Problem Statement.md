@@ -1,13 +1,10 @@
 # Problem Statement
 
 By default initialize a variable as "billingDetails" with  object containing user name, address, pincode, state, country, pancard     
-
-Print billingDetails
-
+Print billingDetails     
 
 
-
-Print total number of products
+Print total number of products     
 
 ## Rules
 
