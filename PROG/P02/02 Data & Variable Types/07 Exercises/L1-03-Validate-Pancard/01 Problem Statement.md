@@ -1,19 +1,19 @@
 # Problem Statement
 
-create billingDetails referring to the one created in P02-02-L1-02
+create billingDetails referring to the one created in P02-02-L1-02      
 
-create new variable pancard  and provide value from billingDetails.pancard object 
+create new variable pancard and provide value from billingDetails.pancard object       
 
-Write an method to validate wether the pancard details entered is correct
+Write an method to validate wether the pancard details entered is correct      
 
 ## Rules
 
 * Pancard Rules :
     * Should be equal to 10 characters
     * Should contain both alphabet and numbers
-* Pancard Valid
+* If Pancard Valid
     * Print "Pancard is valid"   
-* Pancard Not Valid
+* If Pancard Not Valid
     * Print "Pancard is not valid"   
 
 ## Manditory Steps

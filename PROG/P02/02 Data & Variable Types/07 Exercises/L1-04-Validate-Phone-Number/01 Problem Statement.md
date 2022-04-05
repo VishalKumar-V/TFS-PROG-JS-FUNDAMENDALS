@@ -1,16 +1,29 @@
 # Problem Statement
 
-By default initialize a variable as "myName" with string value     
-Write an algorithm to print the name in all caps
+create billingDetails referring to the one created in P02-02-L1-02      
+
+create new variable phone and provide value from phoneno property of billingDetails object       
+
+Write an method to validate wether the phone details entered is correct      
 
 ## Rules
 
--
+* PhoneNumber Rules :
+    * Should be equal to 10 characters
+    * Should contain only numbers
+* PhoneNumber Valid
+    * Print "PhoneNumber is valid"   
+* PhoneNumber Not Valid
+    * Print "PhoneNumber is not valid"   
+
+## Note
+
+- phoneno property of billingDetails should be defined as string enclosed with quotes instead of number eg : '900' instead of 900 
 
 ## Manditory Steps
 
-- [ ] Solution Proposal
-- [ ] Algorithm
+- [x] Solution Proposal
+- [x] Algorithm
 - [x] Solution
 - [x] Scratchpad
 
@@ -19,20 +32,15 @@ Write an algorithm to print the name in all caps
 ## Sample I/O
 
 > #### Sample Input 1:
-> myName = 'Sanga Tamilan'
+> phone = '9090909090' //taken from billingDetailsobject
 >
 > ##### Output:
-> “SANGA TAMILAN”
+> "PhoneNumber is valid"
 
 > #### Sample Input 2:
-> myName = 'sanga tamilan'
+> phone = '909090909'   //taken from billingDetailsobject
 >
 > ##### Output:
-> “SANGA TAMILAN”
+> "PhoneNumber is not valid"
 
 
-> #### Sample Input 3:
-> myName = 'SANGA TAMILAN'
->
-> ##### Output:
-> “SANGA TAMILAN”

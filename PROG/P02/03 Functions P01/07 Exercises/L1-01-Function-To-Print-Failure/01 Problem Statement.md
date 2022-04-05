@@ -1,7 +1,12 @@
 # Problem Statement
 
-By default initialize a variable as "myName" with string value     
-Write an algorithm to print the name in all caps
+By default initialize a variable as "allProducts" with array af products where each product is an object containing product name, category, price, stock, gst, isfood     
+
+Add atlease minimum of 5 products to allProducts
+
+Print and check the typeof category, price, name, isfood of first product in the list
+
+Print total number of products
 
 ## Rules
 
@@ -19,20 +24,14 @@ Write an algorithm to print the name in all caps
 ## Sample I/O
 
 > #### Sample Input 1:
-> myName = 'Sanga Tamilan'
+> allProducts = [{
+    name:"Samsung Galaxy S21", category:"Phone", price:25, stock:3, gst:25, isfood:false
+}]
 >
 > ##### Output:
-> “SANGA TAMILAN”
+> 'string' // typeof category
+> 'number' // typeof price
+> 'string' // typeof name
+> 'boolean' // typeof isfood
+> 5 //total number of products
 
-> #### Sample Input 2:
-> myName = 'sanga tamilan'
->
-> ##### Output:
-> “SANGA TAMILAN”
-
-
-> #### Sample Input 3:
-> myName = 'SANGA TAMILAN'
->
-> ##### Output:
-> “SANGA TAMILAN”
