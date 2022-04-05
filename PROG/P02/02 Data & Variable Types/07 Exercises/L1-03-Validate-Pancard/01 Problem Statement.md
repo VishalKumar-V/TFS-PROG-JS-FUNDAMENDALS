@@ -4,7 +4,7 @@ create billingDetails referring to the one created in [P02-02-L1-02](https://git
 
 create new variable pancard and provide value from billingDetails.pancard object       
 
-Write an method to validate wether the pancard details entered is correct      
+Write an method to validate wether the pancard details entered is correct [link](URL){:target="_blank"}       
 
 ## Rules
 
