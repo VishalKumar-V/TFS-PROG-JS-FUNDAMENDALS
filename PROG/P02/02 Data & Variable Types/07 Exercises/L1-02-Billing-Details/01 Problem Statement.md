@@ -38,8 +38,6 @@ Print pancard from billingDetails
 > 600018
 > \
 > \
-> \
-> \
 > BGKSO150G
 > \
 > \
