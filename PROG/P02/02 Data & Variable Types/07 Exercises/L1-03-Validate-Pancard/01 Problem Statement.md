@@ -1,6 +1,6 @@
 # Problem Statement
 
-create billingDetails referring to the one created in [P02-02-L1-02](PROG/P02/02 Data & Variable Types/07 Exercises/L1-02-Billing-Details/01 Problem Statement.md)       
+create billingDetails referring to the one created in [P02-02-L1-02](https://github.com/AzrMohammed/TFS_PROG_L01/blob/c760871111c73ef932ca1b2190b583cbde0640df/PROG/P02/02%20Data%20&%20Variable%20Types/07%20Exercises/L1-02-Billing-Details/01%20Problem%20Statement.md)       
 
 create new variable pancard and provide value from billingDetails.pancard object       
 
