@@ -40,6 +40,6 @@ Print pancard from billingDetails
 > \
 > \
 > \
-> BGKSO150G      
+> BGKSO150G 
 > \
 > \
