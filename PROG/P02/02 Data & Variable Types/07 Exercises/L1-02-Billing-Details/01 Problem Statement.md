@@ -28,11 +28,11 @@ Print pancard from billingDetails
 
 > #### Sample Input 1:
 > billingDetails = {
-> name:"Arul", address:"2nd Main Anna Nagar, Chennai", pincode:600018, phoneno:'9080808080', state:"TamilNadu", country:"India", pancard:"BGKSO150G"
+> name:"Arul", address:"2nd Main Anna Nagar, Chennai", pincode:600018, phoneno:"9080808080", state:"TamilNadu", country:"India", pancard:"BGKSO150G"
 > }
 >
 > ##### Output:
-> { name:"Arul", address:"2nd Main Anna Nagar, Chennai", pincode:600018, phoneno:'9080808080', state:"TamilNadu", country:"India", pancard:"BGKSO150G" }
+> { name:"Arul", address:"2nd Main Anna Nagar, Chennai", pincode:600018, phoneno:"9080808080", state:"TamilNadu", country:"India", pancard:"BGKSO150G" }
 > \
 > \
 > 600018
