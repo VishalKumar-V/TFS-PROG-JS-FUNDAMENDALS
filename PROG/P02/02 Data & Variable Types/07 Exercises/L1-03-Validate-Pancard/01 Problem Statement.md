@@ -28,13 +28,13 @@ Write an method to validate wether the pancard details entered is correct
 ## Sample I/O
 
 > #### Sample Input 1:
-> pancard = 'OPSAAD123O' //taken from billingDetailsobject
+> pancard = 'OPSAAD123O' // *taken from billingDetailsobject*
 >
 > ##### Output:
 > "Pancard is valid"
 
 > #### Sample Input 2:
-> pancard = 'REA2123O'   //taken from billingDetailsobject
+> pancard = 'REA2123O'   // *taken from billingDetailsobject*
 >
 > ##### Output:
 > "Pancard is not valid"
