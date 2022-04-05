@@ -1,7 +1,13 @@
 # Problem Statement
 
-By default initialize a variable as "myName" with string value     
-Write an algorithm to print the name in all caps
+By default initialize a variable as "billingDetails" with  object containing user name, address, pincode, state, country, pancard     
+
+Print billingDetails
+
+
+
+
+Print total number of products
 
 ## Rules
 
@@ -19,20 +25,10 @@ Write an algorithm to print the name in all caps
 ## Sample I/O
 
 > #### Sample Input 1:
-> myName = 'Sanga Tamilan'
+> allProducts = {
+    name:"Arul", address:"2nd Main Anna Nagar, Chennai", pincode:600018, state:"TamilNadu", country:"India", pancard:"BGKSO150G"
+}
 >
 > ##### Output:
-> “SANGA TAMILAN”
-
-> #### Sample Input 2:
-> myName = 'sanga tamilan'
->
-> ##### Output:
-> “SANGA TAMILAN”
-
-
-> #### Sample Input 3:
-> myName = 'SANGA TAMILAN'
->
-> ##### Output:
-> “SANGA TAMILAN”
+> { name:"Arul", address:"2nd Main Anna Nagar, Chennai", pincode:600018, state:"TamilNadu", country:"India", pancard:"BGKSO150G" }
+> 
