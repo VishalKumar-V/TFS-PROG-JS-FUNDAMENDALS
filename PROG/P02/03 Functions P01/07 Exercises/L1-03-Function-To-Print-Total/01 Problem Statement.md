@@ -1,10 +1,13 @@
 # Problem Statement
 
-By default initialize a variable as "myName" with string value     
-Write an algorithm to print the name in all caps
+write a function that takes total as the input and print the message as "Total Amount is <total>"
+\
+\
+call the created function by passing the total value
+\
+
 
 ## Rules
-
 -
 
 ## Manditory Steps
@@ -12,27 +15,19 @@ Write an algorithm to print the name in all caps
 - [ ] Solution Proposal
 - [ ] Algorithm
 - [x] Solution
-- [x] Scratchpad
-
-
+- [ ] Scratchpad
 
 ## Sample I/O
 
 > #### Sample Input 1:
-> myName = 'Sanga Tamilan'
+> total = 10
 >
 > ##### Output:
-> “SANGA TAMILAN”
+> "Total Amount is 10"
 
 > #### Sample Input 2:
-> myName = 'sanga tamilan'
+> total = 25
 >
 > ##### Output:
-> “SANGA TAMILAN”
+> "Total Amount is 25"
 
-
-> #### Sample Input 3:
-> myName = 'SANGA TAMILAN'
->
-> ##### Output:
-> “SANGA TAMILAN”

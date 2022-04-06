@@ -1,10 +1,24 @@
 # Problem Statement
 
-By default initialize a variable as "myName" with string value     
-Write an algorithm to print the name in all caps
+By default initialize a variable as "allProducts" with value as array of products
+\
+\
+Each product item should contain the property of [product](https://github.com/AzrMohammed/TFS_PROG_L01/blob/abb463c7bf6a1c7c68f1c3cd63c31088ea7a2b18/PROG/P02/02%20Data%20&%20Variable%20Types/07%20Exercises/L1-01-Product-Specification/01%20Problem%20Statement.md) object
+\
+\
+Add atlease minimum of 5 products with different specification to allProducts
+\
+\
+write a function that takes array of products as input and returns the total amount by adding the price of each product
+\
+\
+call the created function by passing the allProducts value and save the return value in a variable productsTotalAmount
+\
+\
+print the value of productsTotalAmount
+
 
 ## Rules
-
 -
 
 ## Manditory Steps
@@ -12,27 +26,13 @@ Write an algorithm to print the name in all caps
 - [ ] Solution Proposal
 - [ ] Algorithm
 - [x] Solution
-- [x] Scratchpad
-
-
+- [ ] Scratchpad
 
 ## Sample I/O
 
 > #### Sample Input 1:
-> myName = 'Sanga Tamilan'
+>  allProducts = [{
+    name:"Samsung Galaxy S21", category:"Phone", price:25, stock:3, gst:25, isfood:false, discount:3},{name:"Google Pixel", category:"Phone", price:35, stock:3, gst:25, isfood:false, discount:3}]
 >
 > ##### Output:
-> “SANGA TAMILAN”
-
-> #### Sample Input 2:
-> myName = 'sanga tamilan'
->
-> ##### Output:
-> “SANGA TAMILAN”
-
-
-> #### Sample Input 3:
-> myName = 'SANGA TAMILAN'
->
-> ##### Output:
-> “SANGA TAMILAN”
+> 60  / *value of productsTotalAmount*
