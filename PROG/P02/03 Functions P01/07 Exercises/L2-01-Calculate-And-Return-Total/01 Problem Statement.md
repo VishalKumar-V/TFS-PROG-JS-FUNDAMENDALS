@@ -12,7 +12,7 @@ Add atlease minimum of 5 products with different specification to allProducts
 write a function that takes array of products as input and returns the total amount by adding the price of each product
 \
 \
-call the created function by passing the allProducts value and save the return value in a variable productsTotalAmount
+call the created function by passing the allProducts value and save the value returned by the function in a variable productsTotalAmount
 \
 \
 print the value of productsTotalAmount
