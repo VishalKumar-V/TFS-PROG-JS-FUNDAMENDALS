@@ -1,6 +1,6 @@
 # Problem Statement
 
-write a function to print the success message as "Products added sucessfully"
+write a function to print the success message as "Discount Applicable"
 \
 \
 call the created function
@@ -23,5 +23,5 @@ call the created function
 > -
 >
 > ##### Output:
-> "Products added successfully"
+> "Discount Applicable"
 

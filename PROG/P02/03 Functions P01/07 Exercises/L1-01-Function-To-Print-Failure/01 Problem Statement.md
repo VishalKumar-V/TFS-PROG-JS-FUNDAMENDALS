@@ -1,6 +1,6 @@
 # Problem Statement
 
-write a function to print the failure message as "Failed to add Products"
+write a function to print the failure message as "Discount Not Applicable"
 \
 \
 call the created function
@@ -23,5 +23,5 @@ call the created function
 > -
 >
 > ##### Output:
-> "Failed to add Products"
+> "Discount Not Applicable"
 
