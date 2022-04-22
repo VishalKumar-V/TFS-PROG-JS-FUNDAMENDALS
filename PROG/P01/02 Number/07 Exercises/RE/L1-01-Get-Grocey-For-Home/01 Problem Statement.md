@@ -8,6 +8,7 @@ Calulate and print how much total price of grocery is , how much you are getting
 Print the values 
 
 ## Rules
+
 * Below is the tips
     * egg - 5 /piece
     * potato - 12 / kg
