@@ -5,14 +5,12 @@ and after purchasing you have to give 5 Rs as tips to store owner and  she asked
 
 Calulate and print how much total price of grocery is , how much you are getting and how much you are returning to your mom 
 
-Print the values 
-
 ## Rules
 
 * Below is the tips
-    * egg - 5 /piece
-    * potato - 12 / kg
-    * tomato - 24 / kg
+    * egg - 5/piece
+    * potato - 12/kg
+    * tomato - 24/kg
 
 
 ## Manditory Steps
