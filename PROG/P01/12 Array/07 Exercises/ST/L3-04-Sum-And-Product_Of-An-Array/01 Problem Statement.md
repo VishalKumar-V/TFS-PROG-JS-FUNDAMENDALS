@@ -19,8 +19,6 @@ Write a JavaScript program to compute the sum and product of an array of integer
 > Sum of an array 6
 > Product of an array 6
 
-
-
 > #### Sample Input 2:
 > studentNames = [4,5,3] 
 >
