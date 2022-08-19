@@ -23,13 +23,13 @@ Write a JavaScript program to remove duplicate items from an array.
 > [1,2,3]
 
 > #### Sample Input 2:
-> studentNames = [4,5,3,3,4,0] 
+> array = [4,5,3,3,4,0] 
 >
 > ##### Output:
 > [4,5,3,0]
 
 > #### Sample Input 3:
-> studentNames = [1,1,30,100,20,33,33]
+> array = [1,1,30,100,20,33,33]
 >
 > ##### Output:
 > [1,30,100,20,33]
