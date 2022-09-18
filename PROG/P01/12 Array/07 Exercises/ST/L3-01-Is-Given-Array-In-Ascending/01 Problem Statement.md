@@ -1,13 +1,13 @@
 # Problem Statement   
 
-Write a JS program to find no of even numbers in an array of integers.    
+Write a JS program to find the given array is ascending or not.    
 
 
 ## Rules
-* If an array with two even numbers
-    * Print "There are 2 even numbers in this array"
-* If there is no even numbers 
-    * Print "There is no even numbers in this array"
+* If an array [20,30,40,50,60]
+    * Print "The given array is in ascending"
+* array [30,20,50,11,8]
+    * Print "The given array is not in ascending"
 
 
 ## Manditory Steps
@@ -20,19 +20,19 @@ Write a JS program to find no of even numbers in an array of integers.
 ## Sample I/O
 
 > #### Sample Input 1:
-> findEvenNumbers = [1,2,3,4,5,6]
+> array = [1,2,3,4,5,6]
 >
 > ##### Output:
-> There are 3 even numbers in this array
+> The given array is in ascending
 
 > #### Sample Input 2:
 > studentNames = [45,55,32,55] 
 >
 > ##### Output:
->  There are 1 even numbers in this array
+>  The given array is not in ascending
 
 > #### Sample Input 3:
 > studentNames = [1,3,5,7,9]
 >
 > ##### Output:
-> "There is no even numbers in this array"
+> "The given array is not in ascending"
