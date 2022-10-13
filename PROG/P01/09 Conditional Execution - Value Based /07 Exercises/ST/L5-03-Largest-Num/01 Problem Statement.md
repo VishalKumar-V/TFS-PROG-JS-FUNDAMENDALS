@@ -38,3 +38,12 @@ then print --->>> num4 is largest
 > #### Output:
 > “num2 is largest”
 
+> #### Sample Input 2:
+> num1 = -97
+> num2 = -280
+> num3 = 60 
+> num4 = 77
+> num5 = 279
+>
+> #### Output:
+> “num5 is largest”
